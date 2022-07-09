@@ -5,7 +5,7 @@
 Work Day Scheduler is an app to help you to plan your daily schedule. All information is saved in local storage for your day.
 
 ### access
-at
+at https://alananibal.github.io/Work-Day-Scheduler/
 
 
 
